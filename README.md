@@ -14,7 +14,7 @@
         🌐 Front-end Developement (HTML, CSS, Bootstrap, JavaScript, React).
         ⌨️ Also familiar with core-PHP and My-SQL.
 
-    📫 Get in touch
+📫 Get in touch
     
 Gmail: shubhamdobriyal09563@gmail.com
     
