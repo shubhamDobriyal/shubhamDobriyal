@@ -16,6 +16,6 @@
 
     📫 Get in touch
     
-    Gmail: shubhamdobriyal09563@gmail.com
+Gmail: shubhamdobriyal09563@gmail.com
     
-    LinkedIn: https://www.linkedin.com/in/shubham-dobriyal-8b3064250/ 
+LinkedIn:  https://www.linkedin.com/in/shubham-dobriyal-8b3064250/ 
