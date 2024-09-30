@@ -5,7 +5,7 @@
     
     🧰  Proficient in creating front-end systems that deliver impeccable performance across diverse devices and platforms.
     
-    🔭 I’m currently pursuing ... Web and Mobile Development Training under PMKVY scheme in collaboration with IBM at LTSU, Ropar.
+    🔭 I have completed ... Web and Mobile Development Training under PMKVY scheme in collaboration with IBM at LTSU, Ropar.
     
     🌱 I’m currently learning ... React.js
     
